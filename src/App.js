@@ -17,7 +17,7 @@ function App() {
           }}
         >
           <Text variant="subtitle">
-            Meetings every Thursday after school in Room XXX.
+            Meetings every Thursday after school in Room 120.
           </Text>
         </Container>
         <Container
